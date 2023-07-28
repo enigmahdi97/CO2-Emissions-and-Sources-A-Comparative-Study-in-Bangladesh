@@ -1,5 +1,5 @@
 # CO2 Emissions and Sources: A Comparative Study in Bangladesh
-This is a qualitative research paper. The Excel file has the data, and the pdf file is the paper.
+This is a review research paper. The Excel file has the data, and the pdf file is the paper.
 
 The main objective of this study is to identify the major contributors to CO2 emissions in
 Bangladesh and gain a better understanding of which sectors to tackle first to regulate the current
