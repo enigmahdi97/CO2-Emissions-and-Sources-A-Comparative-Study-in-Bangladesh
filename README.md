@@ -1,5 +1,4 @@
-# Seminar-Paper
-## CO2 Emissions and Sources: A Comparative Study in Bangladesh
+# CO2 Emissions and Sources: A Comparative Study in Bangladesh
 This is a qualitative research paper and data analytics project.
 
 The main objective of this study is to identify the major contributors to CO2 emissions in
